@@ -1,4 +1,4 @@
-# CPE-322-A
+# CPE 322-A
 
 ```
 git status 
@@ -6,7 +6,7 @@ git add
 git commit
 ```
 
-**This is my repository for CPE-322-A (Engineering Design VI).**
+**This is my repository for CPE 322-A (Engineering Design VI).**
 
 *This repository is for uploading any coding work done in this class.*
 
