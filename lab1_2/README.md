@@ -1,4 +1,4 @@
-# Lab 1: Using the Raspberry Pi command line
+# Lab 1/2: Using the Raspberry Pi command line
 
 I pledge my honor that I have abided by the Stevens Honor System.
 
