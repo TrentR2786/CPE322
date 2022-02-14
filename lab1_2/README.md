@@ -1,4 +1,4 @@
-# Lab 1: Setting up and configuring the Raspberry Pi
+# Lab 1: Using the Raspberry Pi command line
 
 I pledge my honor that I have abided by the Stevens Honor System.
 
@@ -28,7 +28,21 @@ The monitor, mouse, and keyboard are plugged into the Raspberry Pi.
 
 ![Editing with nano](assets/nano.png)
 
+## Editing /etc/rc.local
+
+![rc.local in nano](assets/rtc_local.png)
+
 ## Email sent by startup_mailer.py
 
 ![Sent email](assets/email.png)
+
+## Using Minicom
+
+![Using Minicom](assets/minicom.png)
+
+## Running spidev-test
+
+![Running spidev-test](assets/spidev.png)
+
+The SPI MOSI and MISO pins are not connected.
 
