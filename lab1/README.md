@@ -8,6 +8,27 @@ All command line images are taken on my laptop using SSH.
 
 ## Configuring the Pi
 
+![Configuration Setup](assets/configuration.jpg)
+
 The monitor, mouse, and keyboard are plugged into the Raspberry Pi.
 
+## Connecting to Pi using SSH
+
+![Connecting with SSH](assets/ssh.png)
+
+## ping localhost
+
+![ping localhost](assets/ping_localhost.png)
+
+## Pulling from IOT repository
+
+![Pulling from repo](assets/pull.png)
+
+## Using GNU nano
+
+![Editing with nano](assets/nano.png)
+
+## Email sent by startup_mailer.py
+
+![Sent email](assets/email.png)
 
