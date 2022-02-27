@@ -2,4 +2,14 @@
 
 I pledge my honor that I have abided by the Stevens Honor System.
 
-WIP
+## Creating a Django App
+
+![Creating Django App](assets/djangoapp.png)
+
+## Creating a MySQL Database
+
+![MySQL Database](assets/mysql.png)
+
+## Copying Files Into App
+
+![Copying Files](assets/filecopy.png)
