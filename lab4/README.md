@@ -12,4 +12,6 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 ## Copying Files Into App
 
-![Copying Files](assets/filecopy.png)
+![Copying Files](assets/copyingfiles.png)
+
+WIP
