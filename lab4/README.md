@@ -30,8 +30,6 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 ![Hello World Flask App](assets/flaskapp.png)
 
-WIP
-
 ## Apache2 Debian Default Page
 
 ![Apache Page](assets/apache.png)
