@@ -14,4 +14,28 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 ![Copying Files](assets/copyingfiles.png)
 
+## Weather Station App (VNC)
+
+![VNC App](assets/djangovnc.png)
+
+## Weather Station App (Laptop)
+
+![Laptop App](assets/djangolaptop.png)
+
+## MyCPU App
+
+![MyCPU App](assets/mycpu.png)
+
+## Running a Flask App
+
+![Hello World Flask App](assets/flaskapp.png)
+
 WIP
+
+## Apache2 Debian Default Page
+
+![Apache Page](assets/apache.png)
+
+## WordPress Installed on Pi
+
+![WordPress Page](assets/wordpress.png)
