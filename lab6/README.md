@@ -2,4 +2,6 @@
 
 I pledge my honor that I have abided by the Stevens Honor System.
 
-WIP
+## Running Node.js Server
+
+[Node.js Server](assets/nodejs.png)
