@@ -20,6 +20,8 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 ## rpidata Plots
 
+NOTE: First data point in spreadsheet was deleted to remove outlier.
+
 ![plt_final.py Figures 1 and 2](assets/plt_final_1_2.png)
 
 ![plt_final.py Figures 3 and 4](assets/plt_final_3_4.png)
