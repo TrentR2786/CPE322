@@ -13,5 +13,3 @@ I pledge my honor that I have abided by the Stevens Honor System.
 ![Creating Diagram PNG with PlantUML](assets/plantuml.png)
 
 ![UML Diagram](assets/diagram.png)
-
-WIP
