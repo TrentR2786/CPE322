@@ -20,7 +20,7 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 ## rpidata Plots
 
-NOTE: First data point in spreadsheet was deleted to remove outlier.
+NOTE: The first data point in the spreadsheet was deleted to remove the outlier.
 
 ![plt_final.py Figures 1 and 2](assets/plt_final_1_2.png)
 
