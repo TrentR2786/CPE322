@@ -1,4 +1,4 @@
-# Lab 9: YANG and Qiskit
+# Lab 9: YANG
 
 I pledge my honor that I have abided by the Stevens Honor System.
 
