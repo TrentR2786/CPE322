@@ -14,4 +14,8 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 ![SnakeCoin Blockchain](assets/snakecoin.png)
 
-WIP
+WIP: Add server code results after fixing Flask
+
+## PyOTA Node Information
+
+![PyOTA Node Info](assets/pyota.png)
