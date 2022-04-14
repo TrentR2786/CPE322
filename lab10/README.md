@@ -14,7 +14,17 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 ![SnakeCoin Blockchain](assets/snakecoin.png)
 
-WIP: Add server code results after fixing Flask
+## Running SnakeCoin Server
+
+![Running SnakeCoin Server](assets/snakecoin_server.png)
+
+## Mining SnakeCoin Block
+
+![Mining SnakeCoin Block](assets/snakecoin_mine.png)
+
+## Python Blockchain App
+
+![Python Blockchain App](assets/blockchain_app.png)
 
 ## PyOTA Node Information
 
